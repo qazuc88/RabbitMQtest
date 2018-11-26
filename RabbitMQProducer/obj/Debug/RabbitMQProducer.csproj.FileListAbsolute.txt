@@ -1,0 +1,14 @@
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe.config
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.exe
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQProducer.pdb
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\Libs.dll
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQ.Client.dll
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\Libs.pdb
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\RabbitMQ.Client.xml
+D:\work\test\RabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.csprojResolveAssemblyReference.cache
+D:\work\test\RabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.exe
+D:\work\test\RabbitMQ\RabbitMQProducer\obj\Debug\RabbitMQProducer.pdb
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\log4net.dll
+D:\work\test\RabbitMQ\RabbitMQProducer\bin\Debug\log4net.xml

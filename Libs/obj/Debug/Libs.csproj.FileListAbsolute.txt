@@ -1,0 +1,11 @@
+D:\work\test\RabbitMQ\Libs\bin\Debug\Libs.dll
+D:\work\test\RabbitMQ\Libs\bin\Debug\Libs.pdb
+D:\work\test\RabbitMQ\Libs\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\work\test\RabbitMQ\Libs\bin\Debug\RabbitMQ.Client.dll
+D:\work\test\RabbitMQ\Libs\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\work\test\RabbitMQ\Libs\bin\Debug\RabbitMQ.Client.xml
+D:\work\test\RabbitMQ\Libs\obj\Debug\Libs.csprojResolveAssemblyReference.cache
+D:\work\test\RabbitMQ\Libs\obj\Debug\Libs.dll
+D:\work\test\RabbitMQ\Libs\obj\Debug\Libs.pdb
+D:\work\test\RabbitMQ\Libs\bin\Debug\log4net.dll
+D:\work\test\RabbitMQ\Libs\bin\Debug\log4net.xml
